@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @subeenbohara
-- 👀 I’m interested in web development and ML ...
-- 🌱 I’m currently and undergraduate student at Kathmandu University  ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Subeen Bohara
 
-<!---
-subeenbohara/subeenbohara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m an undergraduate student at Kathmandu University, currently pursuing a bachelor's degree in **Civil Engineering** with a keen interest in **Web Development** and **Machine Learning**.
+- 👀 I’m passionate about creating innovative projects and exploring technology's potential to solve real-world problems.
+- 💼 Looking to collaborate on web development projects, data-driven applications, and open-source contributions.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/subeenbohara/) or via [email](mailto:subeenbohara@gmail.com).
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m also a 1st Dan black belt in Taekwondo! 
+
+> **"Keep learning, stay curious."**
+
+---
+
+This `README.md` file appears on your GitHub profile—feel free to click the Preview link to check it out!
