@@ -5,7 +5,7 @@
 - 💼 Looking to collaborate on web development projects, data-driven applications, and open-source contributions.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/subeenbohara/) or via [email](mailto:subeenbohara@gmail.com).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I’m also a 1st Dan black belt in Taekwondo! 
+
 
 > **"Keep learning, stay curious."**
 
